@@ -1,2 +1,2 @@
 # blazectf
-writeups for blaze ctf
+I only solved the two magic challenges during this competition-- writeups coming soon.
